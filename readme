@@ -7,6 +7,9 @@ Hello, this repository includes;
 
 Datasets I used:
 
+  Heart Disease: https://www.kaggle.com/ronitf/heart-disease-uci
+  Titanic: https://www.kaggle.com/c/titanic/data
+  Stroke: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 
 
-PS:In some methods, I inspired from Mustafa Vahit Keskin and Jason Brownlee. 
+PS:In some methods, I inspired from Jason Brownlee. 
